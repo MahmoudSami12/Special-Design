@@ -48,7 +48,7 @@ body {
   position: absolute;
   text-align: center;
   transform: translate(29px, 0);
-  background-color: #fff;
+  background-color: transparent;
   top: 100px;
 
   cursor: pointer;
